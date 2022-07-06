@@ -4,17 +4,13 @@
   
   
   <url>
-    <loc>https://example.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc></loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication-type/2/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/bagade-2022-amortality/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -1659,6 +1655,14 @@
     <loc></loc><lastmod>2020-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2020-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/talk/creditss-overivew/</loc><lastmod>2020-06-21T20:28:57+10:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/event/</loc><lastmod>2020-06-21T20:28:57+10:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/talk/mediation/</loc><lastmod>2020-06-21T20:28:44+10:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/talk/adaptive-trials/</loc><lastmod>2020-06-21T20:28:34+10:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/blyton-2020-aexercise/</loc><lastmod>2020-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

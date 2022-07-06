@@ -4,7 +4,7 @@ bio: My research interests include causal modelling, Bayesian adaptive trials, a
 education:
   courses:
   - course: PhD in Statistics
-    institution: University of Queensland
+    institution: Queensland University of Technology
     year: 2009
   - course: B Mathematics(Hon)
     institution: University of Newcastle
