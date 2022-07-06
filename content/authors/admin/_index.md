@@ -41,9 +41,7 @@ superuser: true
 title: Chris Oldmeadow
 ---
 
- As the Associate Director of Data Sciences at the
-Hunter Medical Research Institute, I lead the  biostatistics, bioinformatics
-and health informatics consulting units helping clinicians and researchers to effectively use data to improve health care and health outcomes.
+I lead a team of biostatisticians, bioinformaticians, and health informaticians to help clinicians and researchers to effectively use data to improve health care and health outcomes.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-Oldmeadow.pdf" "newtab" >}}resumé{{< /staticref >}}.
