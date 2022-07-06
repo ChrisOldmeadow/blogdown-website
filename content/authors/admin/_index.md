@@ -41,12 +41,9 @@ superuser: true
 title: Chris Oldmeadow
 ---
 
-I am an applied statistician with over 10 years experience providing consultative
-support for medical researchers. My undergraduate studies were in Mathematics,
-Statistics and Bioinformatics (University of Newcastle, Australia), and my PhD was in
-Bayesian Statistics applied in statistical genetics and bioinformatics
-(Queensland University of Technology, Australia). I am the Associate Director of Data Sciences at the
-Hunter Medical Research Institute, leading the  biostatistics, bioinformatics
-and health informatics consulting units
+ As the Associate Director of Data Sciences at the
+Hunter Medical Research Institute, I lead the  biostatistics, bioinformatics
+and health informatics consulting units helping clinicians and researchers to effectively use data to improve health care and health outcomes.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-Oldmeadow.pdf" "newtab" >}}resumé{{< /staticref >}}.
