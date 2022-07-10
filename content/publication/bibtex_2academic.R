@@ -16,7 +16,7 @@ bibtex_2academic <- function(bibfile,
       mutate(mainref = journal)
   mypubs$mainref <- mypubs$mainref %>% replace_na('') #otherwise it appears "NA" in post
 
-  mypubs$abstract <- mypubs$abstract %>% replace_na('(Abstract not available)') #otherwise it appears "NA" in post
+ # mypubs$abstract <- mypubs$abstract %>% replace_na('(Abstract not available)') #otherwise it appears "NA" in post
 #  mypubs$annotation <- mypubs$annotation %>% replace_na('image_preview = ""') #otherwise
   # Customize Zotero extra field (here "annotation") in order to leave there the additional information for the md file
 
@@ -27,11 +27,11 @@ bibtex_2academic <- function(bibfile,
       x = mypubs$annotation
     )
 
-    mypubs$abstract<- gsub(
-      pattern = ('\\\\'),
-      replacement = '',
-      x = mypubs$abstract
-    )
+   # mypubs$abstract<- gsub(
+  #    pattern = ('\\\\'),
+  #    replacement = '',
+  #    x = mypubs$abstract
+  #  )
 
     mypubs$mainref<- gsub(
       pattern = ('\\\\'),
@@ -119,27 +119,21 @@ bibtex_2academic <- function(bibfile,
                                                       " ", x[["pages"]], ".")
       if (!is.na(x[["address"]])) publication <- paste0(publication,
                                                         " ", x[["address"]], ":")
-      if (!is.na(x[["publisher"]])) publication <- paste0(publication,
-                                                          " ", x[["publisher"]])
-      if (!is.na(x[["doi"]])) publication <- paste0(publication,
-                                                     " ", paste0("https://doi.org/",
-                                                                 x[["doi"]]))
+     # if (!is.na(x[["publisher"]])) publication <- paste0(publication,
+      #                                                    " ", x[["publisher"]])
 
       write(paste0("publication = \"", publication,"\""), fileConn, append = T)
       write(paste0("publication_short = \"", publication,"\""),fileConn, append = T)
 
       # Abstract and optional shortened version.
-      write(paste0("abstract = \"", x[["abstract"]], "\""), fileConn, append = T)
 #      if (abstract) {
 #        write(paste0("abstract = \"", x[["abstract"]],"\""), fileConn, append = T)
 #      } else {
 #        write("abstract = \"\"", fileConn, append = T)
 #      }
-      write(paste0("abstract_short = \"","\""), fileConn, append = T)
 
       # Source document from Zotero URL field
 
-      if (!is.na(x[["url"]]))   write(paste0("url_source = \"", x[["url"]], "\""), fileConn, append = T)
       if (!is.na(x[["keywords"]]))   write(paste0("tags = [\"", x[["keywords"]], "\"]"), fileConn, append = T)
 
       # other possible fields are kept empty. They can be customized later by
