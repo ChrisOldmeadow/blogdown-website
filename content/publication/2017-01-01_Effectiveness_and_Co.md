@@ -1,0 +1,27 @@
++++
+title = "Effectiveness and Cost-Effectiveness of Unsupervised Buprenorphine-Naloxone for the Treatment of Heroin Dependence in a Randomized Waitlist Controlled Trial"
+date = "2017-01-01"
+authors = ["AJ Dunlop", "AL Brown", "C Oldmeadow", "A Harris", "A Gill", "C Sadler", "K Ribbons", "J Attia", "D Barker", "P Ghijben", "J Hinman", "M Jackson", "J Bell", "N Lintzeris"]
+publication_types = ["2"]
+publication = "Drug and Alcohol Dependence, 174 181--191. https://doi.org/10.1016/j.drugalcdep.2017.01.016"
+publication_short = "Drug and Alcohol Dependence, 174 181--191. https://doi.org/10.1016/j.drugalcdep.2017.01.016"
+abstract = "Background Access to opioid agonist treatment can be associated with extensive waiting periods with significant health and financial burdens. This study aimed to determine whether patients with heroin dependence dispensed buprenorphine-naloxone weekly have greater reductions in heroin use and related adverse health effects 12-weeks after commencing treatment, compared to waitlist controls and to examine the cost-effectiveness of this strategy. Methods An open-label waitlist RCT was conducted in an opioid treatment clinic in Newcastle, Australia. Fifty patients with DSM-IV-TR heroin dependence (and no other substance dependence) were recruited. The intervention group (n = 25) received take-home self-administered sublingual buprenorphine-naloxone weekly (mean dose, 22.7 ± 5.7 mg) and weekly clinical review. Waitlist controls (n = 25) received no clinical intervention. The primary outcome was heroin use (self-report, urine toxicology verified) at weeks four, eight and 12. The primary cost-effectiveness outcome was incremental cost per additional heroin-free-day. Results Outcome data were available for 80% of all randomized participants. Across the 12-weeks, treatment group heroin use was on average 19.02 days less/month (95% CI −22.98, −15.06, p {$<$} 0.0001). A total 12-week reduction in adjusted costs including crime of $A5,722 (95% CI 3299, 8154) in favor of treatment was observed. Excluding crime, incremental cost per heroin-free-day gained from treatment was $A18.24 (95% CI 4.50, 28.49). Conclusion When compared to remaining on a waitlist, take-home self-administered buprenorphine-naloxone treatment is associated with significant reductions in heroin use for people with DSM-IV-TR heroin dependence. This cost-effective approach may be an efficient strategy to enhance treatment capacity."
+abstract_short = ""
+url_code = ""
+image_preview = ""
+selected = false
+projects = []
+url_pdf = ""
+url_preprint = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+math = true
+highlight = true
+[header]
+image = ""
+caption = ""
++++
+23 citations (Crossref) [2022-07-10]

@@ -1,0 +1,27 @@
++++
+title = "Dilated Hypertrophy: A Distinct Pattern of Cardiac Remodeling in Preterm Infants"
+date = "2020-01-01"
+authors = ["NS Phad", "K {de Waal}", "C Holder", "C Oldmeadow"]
+publication_types = ["2"]
+publication = "Pediatric Research, 87(1) 146--152. https://doi.org/10.1038/s41390-019-0568-4"
+publication_short = "Pediatric Research, 87(1) 146--152. https://doi.org/10.1038/s41390-019-0568-4"
+abstract = "Background: Young adults born preterm have remodeled hearts, i.e., altered cardiac shape and size with impaired cardiac function. At present, the natural history and pattern of prematurity related cardiac remodeling are not clearly established. The aim of this study was to compare the left ventricle (LV) geometry and function of preterm infants at 36 weeks postmenstrual age (PMA) with gestation matched newborn infants. Methods: LV end diastolic volume index (LV EDVI), LV mass index (LVMI), relative wall thickness (RWT), and sphericity index (SI) were prospectively obtained with echocardiography. LV geometry was classified according to the Gaasch method. LV function was assessed by determining ejection fraction (EF), longitudinal strain (LS), mitral annulus systolic motion (s’), and estimated LV filling pressure (E/e’). Results: Eighty-three preterm infants between 23 and 29 weeks gestation, and 40 infants of 36 weeks gestation at birth were analysed. LV EDVI, LVMI, SI, LS, s’, and E/e’ were higher in preterm group while RWT and EF were comparable between groups. LV showed normal geometry in 55.4%, physiological enlargement in 23% and dilated hypertrophy in 21.6% preterm infants. Conclusion: At 36 week, preterm infants have significantly dilated, hypertrophied, and more spherical LV with impaired diastolic function compared with PMA matched newborn infants."
+abstract_short = ""
+url_code = ""
+image_preview = ""
+selected = false
+projects = []
+url_pdf = ""
+url_preprint = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+math = true
+highlight = true
+[header]
+image = ""
+caption = ""
++++
+9 citations (Crossref) [2022-07-10]

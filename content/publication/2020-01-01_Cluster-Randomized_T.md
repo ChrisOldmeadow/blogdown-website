@@ -1,0 +1,27 @@
++++
+title = "Cluster-Randomized Trial of Thrombolysis Implementation Support in Metropolitan and Regional Australian Stroke Centers: Lessons for Individual and Systems Behavior Change"
+date = "2020-01-01"
+authors = ["CR Levi", "JA Attia", "C D'Este", "AE Ryan", "F Henskens", "E Kerr", "MW Parsons", "RW Sanson-Fisher", "CF Bladin", "RI Lindley", "S Middleton", "CL Paul", "C Anderson", "T Ang", "A Bivard", "G Cadigan", "S Celestino", "T Coles", "A Corbett", "L Dark", "S Day", "J Dennett", "G Donnan", "M Evans", "K Fernando", "R Geraghty", "R Gerraty", "A Grady", "R Grimley", "J Gu", "GJ Hankey", "K Hoffman", "J Hughes", "J Ip", "B Jenkins", "M Jones", "M Jude", "L Kaauwai", "M Kanard", "M Kinchington", "M Krause", "S Kuhle", "S Levy", "M Longworth", "B Macdonald", "E Mackey", "K Mandaleson", "F Miteff", "K Mohr", "S Moore", "K Morris", "E O'Brien", "C Oldmeadow", "B Paddock", "K Parrey", "R Peake", "M Russell", "M Stevenson", "S Taneja", "N Teasdale", "Z Terpening", "A {Van Berkel}", "JDG Watson", "Y Weiner", "T Wijeratne", "A Wilson", "N Wolfe"]
+publication_types = ["2"]
+publication = "Journal of the American Heart Association, 9(3) https://doi.org/10.1161/JAHA.119.012732"
+publication_short = "Journal of the American Heart Association, 9(3) https://doi.org/10.1161/JAHA.119.012732"
+abstract = "Background: Intravenous thrombolytic therapy (IVT) with tissue plasminogen activator for acute ischemic stroke is underutilized in many parts of the world. Randomized trials to test the effectiveness of thrombolysis implementation strategies are limited. Methods and Results: This study aimed to test the effectiveness of a multicomponent, multidisciplinary tissue plasminogen activator implementation package in increasing the proportion of thrombolyzed cases while maintaining accepted benchmarks for low rates of intracranial hemorrhage and high rates of functional outcomes at 3 months. A cluster randomized controlled trial of 20 hospitals in the early stages of thrombolysis implementation across 3 Australian states was undertaken. Monitoring of IVT rates during the baseline period allowed hospitals (the unit of randomization) to be grouped into 3 baseline IVT strata—very low rates (0% to ≤4.0%); low rates ({$>$}4.0% to ≤10.0%); and moderate rates ({$>$}10.0%). Hospitals were randomized to an implementation package (experimental group) or usual care (control group) using a 1:1 ratio. The 16-month intervention was based on behavioral theory and analysis of the steps, roles, and barriers to rapid assessment for thrombolysis eligibility and involved comprehensive strategies addressing individual and system-level change. The primary outcome was the difference in tissue plasminogen activator proportions between the 2 groups postintervention. The absolute difference in postintervention IVT rates between intervention and control hospitals adjusted for baseline IVT rate and stratum was not significant (primary outcome rate difference=1.1% (95% CI −1.5% to 3.7%; P=0.38). Rates of intracranial hemorrhage remained below international benchmarks. Conclusions: The implementation package resulted in no significant change in tissue plasminogen activator implementation, suggesting that ongoing support is needed to sustain initial modifications in behavior. Clinical Trial Registration: URL: www.anzctr.org.au Unique identifiers: ACTRN12613000939796 and U1111-1145-6762."
+abstract_short = ""
+url_code = ""
+image_preview = ""
+selected = false
+projects = []
+url_pdf = ""
+url_preprint = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+math = true
+highlight = true
+[header]
+image = ""
+caption = ""
++++
+9 citations (Crossref) [2022-07-10]

@@ -1,0 +1,28 @@
++++
+title = "A Multicomponent mHealth-Based Intervention (SWAP IT) to Decrease the Consumption of Discretionary Foods Packed in School Lunchboxes: Type I Effectiveness-Implementation Hybrid Cluster Randomized Controlled Trial"
+date = "2021-01-01"
+authors = ["R Sutherland", "A Brown", "N Nathan", "S Yoong", "L Janssen", "A Chooi", "N Hudson", "J Wiggers", "N Kerr", "N Evans", "K Gillham", "C Oldmeadow", "A Searles", "P Reeves", "M Davies", "K Reilly", "B Cohen", "L Wolfenden"]
+publication_types = ["2"]
+publication = "Journal of Medical Internet Research, 23(6) https://doi.org/10.2196/25256"
+publication_short = "Journal of Medical Internet Research, 23(6) https://doi.org/10.2196/25256"
+abstract = "Background: There is significant opportunity to improve the nutritional quality of foods packed in children's school lunchboxes. Interventions that are effective and scalable targeting the school and home environment are therefore warranted. Objective: This study aimed to assess the effectiveness of a multicomponent, mobile health-based intervention, SWAP IT, in reducing the energy contribution of discretionary (ie, less healthy) foods and drinks packed for children to consume at school. Methods: A type I effectiveness-implementation hybrid cluster randomized controlled trial was conducted in 32 primary schools located across 3 local health districts in New South Wales, Australia, to compare the effects of a 6-month intervention targeting foods packed in children's lunchboxes with those of a usual care control. Primary schools were eligible if they were not participating in other nutrition studies and used the required school communication app. The Behaviour Change Wheel was used to co-design the multicomponent SWAP IT intervention, which consisted of the following: school lunchbox nutrition guidelines, curriculum lessons, information pushed to parents digitally via an existing school communication app, and additional parent resources to address common barriers to packing healthy lunchboxes. The primary outcome, mean energy (kilojoules) content of discretionary lunchbox foods and drinks packed in lunchboxes, was measured via observation using a validated school food checklist at baseline (May 2019) and at 6-month follow-up (October 2019). Additional secondary outcomes included mean lunchbox energy from discretionary foods consumed, mean total lunchbox energy packed and consumed, mean energy content of core lunchbox foods packed and consumed, and percentage of lunchbox energy from discretionary and core foods, all of which were also measured via observation using a validated school food checklist. Measures of school engagement, consumption of discretionary foods outside of school hours, and lunchbox cost were also collected at baseline and at 6-month follow-up. Data were analyzed via hierarchical linear regression models, with controlling for clustering, socioeconomic status, and remoteness. Results: A total of 3022 (3022/7212, 41.90%) students consented to participate in the evaluation (mean age 7.8 years; 1487/3022, 49.22% girls). There were significant reductions between the intervention and control groups in the primary trial outcome, mean energy (kilojoules) content of discretionary foods packed in lunchboxes (-117.26 kJ; 95% CI -195.59 to -39.83; P=.003). Relative to the control, the intervention also significantly reduced secondary outcomes regarding the mean total lunchbox energy (kilojoules) packed (-88.38 kJ; 95% CI -172.84 to -3.92; P=.04) and consumed (-117.17 kJ; 95% CI -233.72 to -0.62; P=.05). There was no significant difference between groups in measures of student engagement, consumption of discretionary foods outside of school hours, or cost of foods packed in children's lunchboxes. Conclusions: The SWAP IT intervention was effective in reducing the energy content of foods packed for and consumed by primary school-aged children at school. Dissemination of the SWAP IT program at a population level has the potential to influence a significant proportion of primary school-aged children, impacting weight status and associated health care costs."
+abstract_short = ""
+tags = ["cluster RCT","hybrid implementation-effectiveness trial"]
+url_code = ""
+image_preview = ""
+selected = false
+projects = []
+url_pdf = ""
+url_preprint = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+math = true
+highlight = true
+[header]
+image = ""
+caption = ""
++++
+7 citations (Crossref) [2022-07-10]
