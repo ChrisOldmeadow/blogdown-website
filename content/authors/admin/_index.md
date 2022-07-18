@@ -19,7 +19,7 @@ interests:
 - Predictive modelling
 organizations:
 - name: Hunter Medical Research Institute
-  url: https://www.hmri.org/
+  url: https://www.hmri.org.au/
 role: Associate Director, Data Sciences
 social:
 - icon: envelope
