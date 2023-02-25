@@ -41,7 +41,6 @@ superuser: true
 title: Chris Oldmeadow
 ---
 
-I lead a team of biostatisticians, bioinformaticians, and health informaticians to help clinicians and researchers to effectively use data to improve health care and health outcomes.
-
+I'm a biostatistician and data enthusiast on a mission to help clinicians and researchers turn data into insights that improve health care and outcomes. As the leader of a team of biostatisticians, bioinformaticians, and health informaticians, I'm passionate about driving innovation and collaboration to tackle complex health research challenges. Let's connect and explore how we can work together to make a real impact!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-Oldmeadow.pdf" "newtab" >}}resumé{{< /staticref >}}.
